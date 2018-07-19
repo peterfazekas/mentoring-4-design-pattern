@@ -26,6 +26,9 @@ public class LifoIterator<E> implements Iterator<E> {
         return menuItem;
     }
 
+    /**
+     * Removes the first element from the list (as being LIFO iterator).
+     */
     @Override
     public void remove() {
         if(!hasItems()) {

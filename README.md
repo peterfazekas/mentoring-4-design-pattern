@@ -1,5 +1,8 @@
 # Java - Homework 2 - Design Patterns
 
+Task 2: Design Patterns
+*Choose at least two tasks from the list.*
+
 ## Adapter Task
 Write a program that will expose the work with java.util.List collections through pop() and push() methods
 - Write a class that wraps any given List collection
